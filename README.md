@@ -1,6 +1,5 @@
-Epitech | One Day Project | HTLM, CSS
+# Epitech | One Day Project | HTLM, CSS
+-26 oct 2021-
 
-26/10/21
 ----------------------------------------------
-![Alt text](Ecommerce-Desktop.jpg?raw=true "Title")
-
+![Alt text](maquette/Ecommerce-Desktop.jpg?raw=true "Maquette")
